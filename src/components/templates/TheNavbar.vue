@@ -1,5 +1,5 @@
 <template>
-  <nav class="mb-20 py-10 elbetween">
+  <nav class="z-20 relative py-10 elbetween">
     <router-link
       :to="{ name: 'Home' }"
       class="uppercase text-lg tracking-wide font-semibold"

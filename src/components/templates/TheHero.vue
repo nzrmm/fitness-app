@@ -11,7 +11,7 @@
         class="-mx-3 pt-8 text-[200px] leading-[170px] font-semibold tracking-[-2px]">
         Cardio Exercise
       </h1>
-      <div class="flex flex-col space-y-6">
+      <div class="z-20 flex flex-col space-y-6">
         <BaseDesc titleColor="text-yellow" titleData="38:14" type="time" />
         <BaseDesc titleColor="text-rose" titleData="165" type="eas calories" />
       </div>
@@ -26,7 +26,7 @@
     </div>
     <img
       src="/images/hero.webp"
-      class="absolute -top-48 -right-32"
+      class="z-10 absolute -top-48 -right-32"
       alt="hero image" />
   </section>
 </template>

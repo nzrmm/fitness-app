@@ -1,5 +1,6 @@
 <template>
-  <article class="mb-28 relative w-4/12 px-4">
+  <article
+    class="mb-28 relative w-4/12 px-4 hover:scale-105 transition duration-500 cursor-pointer">
     <img :src="`/images/${src}`" class="w-full h-auto" alt="card image" />
     <span
       class="absolute px-4 py-2 bg-black font-semibold bottom-0 right-4 rounded-tl-xl">
