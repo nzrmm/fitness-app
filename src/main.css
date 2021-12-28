@@ -4,6 +4,21 @@
 @tailwind components;
 @tailwind utilities;
 
+@layer base {
+  ::-webkit-scrollbar {
+    width: 5px;
+  }
+
+  ::-webkit-scrollbar-track {
+    background-color: rgba(0, 0, 0, 0.8);
+  }
+
+  ::-webkit-scrollbar-thumb {
+    border-radius: 100vh;
+    background-color: rgba(0, 0, 0, 0.5);
+  }
+}
+
 @layer utilities {
   .elcenter {
     @apply flex justify-center items-center;
