@@ -21,8 +21,8 @@
       tempor incididunt ut labore et dolore magna aliqua.
     </p>
     <div class="flex space-x-6">
-      <BaseButton color="bg-green">Get Started</BaseButton>
-      <BaseButton color="bg-white/10">Preview</BaseButton>
+      <BaseButton color="bg-green hover:bg-green/80">Get Started</BaseButton>
+      <BaseButton color="bg-white/10 hover:bg-white/20">Preview</BaseButton>
     </div>
     <img
       src="/images/hero.webp"
