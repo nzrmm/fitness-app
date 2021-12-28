@@ -3,3 +3,17 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer utilities {
+  .elcenter {
+    @apply flex justify-center items-center;
+  }
+
+  .elbetween {
+    @apply flex justify-between items-center;
+  }
+
+  .elstart {
+    @apply flex justify-start items-center;
+  }
+}

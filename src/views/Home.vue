@@ -1,3 +1,6 @@
 <template>
-  <div>Home</div>
+  <main>
+    <TheHero />
+    <TheCard />
+  </main>
 </template>
