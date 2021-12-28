@@ -1,5 +1,5 @@
 <template>
-  <section class="mb-44 relative">
+  <section class="mb-48 relative">
     <div class="elstart p-2 w-fit bg-white/10 rounded-full">
       <BaseBadge>New</BaseBadge>
       <span class="mx-5 text-xs tracking-wider">

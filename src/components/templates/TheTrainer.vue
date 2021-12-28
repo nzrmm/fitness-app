@@ -1,5 +1,5 @@
 <template>
-  <section class="mb-52 flex h-screen">
+  <section class="mb-96 flex">
     <div class="w-3/12 h-[320px]">
       <img
         src="/images/trainer-1.webp"
