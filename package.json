@@ -8,6 +8,7 @@
     "format": "prettier --write ."
   },
   "dependencies": {
+    "animate.css": "^4.1.1",
     "vue": "^3.2.25",
     "vue-router": "^4.0.12"
   },
